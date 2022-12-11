@@ -1,0 +1,73 @@
+.head {
+    float: left;
+    width: 100%;
+}
+
+.row {
+    float: left;
+    background-image: url(./sanpham.png);
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.row img {
+    width: 100%;
+}
+
+.col1 {
+    float: left;
+    width: 25%;
+}
+
+.col1 a {
+    text-decoration: none;
+    color: #000;
+}
+
+.prod {
+    float: left;
+    width: 100%;
+    padding-left: 3%;
+}
+
+.sub {
+    float: left;
+    width: 100%;
+    padding-left: 6%;
+}
+
+.sub a {
+    color: rgb(127, 124, 124);
+}
+
+.col2 {
+    float: left;
+    width: 75%;
+}
+
+.h1 {
+    float: left;
+    width: 33.33%;
+}
+
+.h2 {
+    float: left;
+    width: 33.33%;
+}
+
+.h2 img {
+    width: 100%;
+}
+
+.h3 {
+    float: left;
+    width: 33.33%;
+}
+
+.h3 img {
+    width: 100%;
+}
+
+.h1 img {
+    width: 100%;
+}

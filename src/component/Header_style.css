@@ -1,0 +1,33 @@
+.header {
+    background-color: FEF8F8;
+    background-image: url("logo.png");
+    background-repeat: no-repeat;
+    padding-top: 2.6%;
+    width: 100%;
+}
+
+.trangchu {
+    float: left;
+    padding-left: 30%;
+    padding-bottom: 3%;
+}
+
+.gioithieu {
+    float: left;
+    padding-left: 3%;
+}
+
+.sanpham {
+    float: left;
+    padding-left: 3%;
+}
+
+.tintuc {
+    float: left;
+    padding-left: 3%;
+}
+
+.lienhe {
+    float: left;
+    padding-left: 3%;
+}
